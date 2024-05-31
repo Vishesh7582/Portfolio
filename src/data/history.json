@@ -1,0 +1,29 @@
+[
+    {
+      "role": "SDE Intern",
+      "organisation": "Accenture",
+      "startDate": "May, 2024",
+      "endDate": "June, 2024",
+      "experiences": ["Worked on various projects assigned by the organisation"],
+      "imageSrc": "history/html.png"
+    },
+    {
+      "role": "Java Programming Intern",
+      "organisation": "Oasis Infobyte",
+      "startDate": "Aug, 2023",
+      "endDate": "Nov, 2023",
+      "experiences": ["Worked on various programming related projects based on Java Concepts"],
+      "imageSrc": "history/javaa.png"
+    },
+    {
+      "role": "Virtual Internship",
+      "organisation": "Eduskills foundation",
+      "startDate": "May, 2023",
+      "endDate": "Jun, 2023",
+      "experiences": [
+        "Learnt about AWS fundamentals","Cloud Foundations in AWS"
+        ],
+      
+      "imageSrc": "history/Aws.png"
+    }
+  ]

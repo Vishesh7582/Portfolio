@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Rental Clothes Website",
+      "imageSrc": "projects/project.png",
+      "description": "This is an interface for rental clothing site made with the help of front-end technologies.",
+      "skills": ["Html", "CSS", "JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Vishesh7582?tab=repositories"
+    },
+    {
+      "title": "Chat App",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "Socket.io"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Vishesh7582?tab=repositories"
+    },
+    {
+      "title": "AI Content Generator",
+      "imageSrc": "projects/project.png",
+      "description": "Project including OpenAI api for text generation for various purposes",
+      "skills": ["Reactjs", "Node", "Express"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Vishesh7582?tab=repositories"
+    }
+  ]
