@@ -1,4 +1,4 @@
-# PorfolioPD
+# Porfolio Vishesh
 # Table of Contents
 1.Project Overview
 
@@ -42,8 +42,8 @@ To run this project locally, follow these steps:
 
 
 ```
-https://github.com/PalakDahare/PortfolioPD.git
-cd PortfolioPD
+https://github.com/Vishesh7582/Portfolio.git
+cd PortfolioVishJ
 
 ```
 
@@ -79,14 +79,6 @@ Once the development server is running, you can explore the different sections o
 **Skills:** List of your technical skills.
 
 **Contact:** Form to send you messages directly.
-
-# Output Screenshots
-
-![Capture](https://github.com/PalakDahare/PortfolioPD/assets/117660359/00d60c3a-675c-4240-8674-d9548d46f3b3)
-
-
-
-![Capture2](https://github.com/PalakDahare/PortfolioPD/assets/117660359/d41baf34-54af-4caa-b0e6-1389e13606e7)
 
 # React + Vite
 
